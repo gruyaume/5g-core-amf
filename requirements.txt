@@ -1,0 +1,8 @@
+fastapi
+requests
+pydantic
+sqlalchemy
+passlib
+python-jose[cryptography]
+uvicorn
+5g-core-common-schemas
